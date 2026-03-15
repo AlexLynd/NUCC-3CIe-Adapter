@@ -4,3 +4,9 @@ But 3 of them specifically designed to slot [Intel 7260]() WiFi cards to an AMD 
 
 ## Ordering Instructions
 `coming soon`
+
+## To-Do
+- [ ] Fix zone fille
+- [ ] Fix spelling
+- [ ] Add exports / models
+- [ ] Fix paths
