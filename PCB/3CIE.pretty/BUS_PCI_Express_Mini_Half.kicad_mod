@@ -665,6 +665,12 @@
 			)
 		)
 	)
+	(pad "" smd circle
+		(at -14.175 -23.9)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "4aeb2005-b549-431e-b25c-5034f7fcf764")
+	)
 	(pad "" smd custom
 		(at -13.553104 -25.353104)
 		(size 0.505 0.505)
@@ -836,12 +842,24 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "4cbe5f7f-116b-439a-858e-cdb26b65e39f")
 	)
+	(pad "" smd circle
+		(at -12.1 -25.975)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "902b53ca-d8d8-4156-a333-874c6ade827f")
+	)
 	(pad "" np_thru_hole circle
 		(at -12.1 -23.9)
 		(size 3 3)
 		(drill 3)
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "f08a8144-de49-43ee-870c-f09dc031e26b")
+	)
+	(pad "" smd circle
+		(at -12.1 -21.825)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "bb49d24d-efc2-4d25-b12a-e1025b2bb72e")
 	)
 	(pad "" smd custom
 		(at -10.646896 -25.353104)
@@ -1007,6 +1025,12 @@
 		)
 		(uuid "cf0934df-2a4b-4392-b03e-b654cd88b99a")
 	)
+	(pad "" smd circle
+		(at 10.025 -23.9)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "6910a164-387c-4884-b151-f35848f689fb")
+	)
 	(pad "" smd custom
 		(at 10.646896 -25.353104)
 		(size 0.505 0.505)
@@ -1171,12 +1195,24 @@
 		)
 		(uuid "cc7116c4-5576-41bc-83c8-5e706c84ade8")
 	)
+	(pad "" smd circle
+		(at 12.1 -25.975)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "8541d9bb-f129-4812-ad02-b07c8b9130ec")
+	)
 	(pad "" np_thru_hole circle
 		(at 12.1 -23.9)
 		(size 3 3)
 		(drill 3)
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "1b56ee8c-66a2-4d36-928c-8f983d251549")
+	)
+	(pad "" smd circle
+		(at 12.1 -21.825)
+		(size 0.642 0.642)
+		(layers "F.Cu")
+		(uuid "337f8e87-cf1f-4323-ae62-7a1f7723bb33")
 	)
 	(pad "" np_thru_hole circle
 		(at 12.5 0)
@@ -1349,24 +1385,6 @@
 		)
 		(uuid "4eb6d357-46ef-47d5-8818-fea06d823f19")
 	)
-	(pad "1" smd circle
-		(at -14.175 -23.9)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "4aeb2005-b549-431e-b25c-5034f7fcf764")
-	)
-	(pad "1" smd circle
-		(at -12.1 -25.975)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "902b53ca-d8d8-4156-a333-874c6ade827f")
-	)
-	(pad "1" smd circle
-		(at -12.1 -21.825)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "bb49d24d-efc2-4d25-b12a-e1025b2bb72e")
-	)
 	(pad "1" smd rect
 		(at -11.8 4.1)
 		(size 0.6 2)
@@ -1390,24 +1408,6 @@
 			)
 		)
 		(uuid "2f20e77b-20bb-4165-98b9-ac4ba7226764")
-	)
-	(pad "1" smd circle
-		(at 10.025 -23.9)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "6910a164-387c-4884-b151-f35848f689fb")
-	)
-	(pad "1" smd circle
-		(at 12.1 -25.975)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "8541d9bb-f129-4812-ad02-b07c8b9130ec")
-	)
-	(pad "1" smd circle
-		(at 12.1 -21.825)
-		(size 0.642 0.642)
-		(layers "F.Cu")
-		(uuid "337f8e87-cf1f-4323-ae62-7a1f7723bb33")
 	)
 	(pad "1" smd custom
 		(at 14.175 -23.9)
